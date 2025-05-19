@@ -47,7 +47,7 @@ A full-scale, cloud-native data project built to simulate and analyse the Paris 
 - Azure Synapse Analytics (SQL Aggregation)
 - Power BI (Interactive Dashboards)
 
-  ![Pipeline ](https://github.com/prathmeshgondkar/Paris-Olympics/blob/3401a0faed672e8f28c75cecb95d8903e68514df/Pipeline.png) 
+  ![Pipeline](https://github.com/prathmeshgondkar/Paris-Olympics/blob/3401a0faed672e8f28c75cecb95d8903e68514df/Pipeline.png) 
 
 
 🌐 Cross-region deployment:  
